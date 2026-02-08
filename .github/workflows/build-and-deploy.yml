@@ -61,4 +61,4 @@ jobs:
       with:
        name: drop
        path: publish
-       path: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+       
